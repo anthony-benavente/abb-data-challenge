@@ -1,1 +1,0 @@
-{'Europe': 32, 'Canada': 2, 'USA': 62, 'Mexico': 3, 'Asia': 2, 'South America': 1, 'Middle East': 1, 'Oceania (Australia, New Zealand, etc.)': 2, 'nan': 35}
